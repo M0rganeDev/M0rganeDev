@@ -1,3 +1,3 @@
 # Hi
 
-I code in C and I suck at making these.
+I code in C, Java and Svelte and I suck at making readmes.
