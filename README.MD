@@ -1,6 +1,4 @@
-<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/border.png">
-
-## Présentation
+<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/presentation.png">
 
 Salutations, je suis Morgane, une développeuse française de 22 ans. Je fais principalement du développement logiciel en Java, et je sais programmer en C/C++. J'utilise NixOS, une distribution Linux.
 
@@ -11,9 +9,7 @@ Mon code n'est (principalement) pas sur GitHub, vous pouvez le trouver sur d'aut
 
 Je suis actuellement étudiante à [l'école 42](https://42lehavre.fr/) du Havre.
 
-<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/border.png">
-
-## Clients (présent et passé)
+<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/clients.png">
 
 - [SandBlock Studios](https://sandblockstudios.com) : J'ai travaillé avec eux en 2023 pour l'événement Calendrier de l'Avant 2023 par Shortcut, une filiale du Crédit Agricole.
 
@@ -23,9 +19,7 @@ Je suis actuellement étudiante à [l'école 42](https://42lehavre.fr/) du Havre
 
 - <anonyme> : Création d'un logiciel interne pour leurs activités en ligne. (l'entreprise n'existe plus)
 
-<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/border.png">
-
-## Projets actuels
+<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/projets_a.png">
 
 - [46Anarchy](https://github.com/46Anarchy) : Un serveur Minecraft anarchie reprenant le modpack de [Paladium](https://github.com/Paladium-Developpement) (avec autorisations).
 
@@ -37,9 +31,7 @@ Je suis actuellement étudiante à [l'école 42](https://42lehavre.fr/) du Havre
 
 - [Anacrypt](https://someboringnerd.xyz/) : site internet pour consulter les informations d'un joueur via FrenchAnarchyBot
 
-<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/border.png">
-
-## Projets passés
+<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/projets_b.png">
 
 - [AlchemyEngine](https://git.morgane.dev/GameDev/ProjectAlchemy) : Moteur de jeu 2D fait en C++, avec un éditeur de niveau intégré.
 
