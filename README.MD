@@ -1,3 +1,5 @@
+<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/border.png">
+
 ## Présentation
 
 Salutations, je suis Morgane, une développeuse française de 22 ans. Je fais principalement du développement logiciel en Java, et je sais programmer en C/C++. J'utilise NixOS, une distribution Linux.
@@ -9,6 +11,8 @@ Mon code n'est (principalement) pas sur GitHub, vous pouvez le trouver sur d'aut
 
 Je suis actuellement étudiante à [l'école 42](https://42lehavre.fr/) du Havre.
 
+<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/border.png">
+
 ## Clients (présent et passé)
 
 - [SandBlock Studios](https://sandblockstudios.com) : J'ai travaillé avec eux en 2023 pour l'événement Calendrier de l'Avant 2023 par Shortcut, une filiale du Crédit Agricole.
@@ -18,6 +22,8 @@ Je suis actuellement étudiante à [l'école 42](https://42lehavre.fr/) du Havre
 - [FBFT.fr](https://fbft.fr/) : création d'un plugin pour bénéficier les joueurs du serveur.
 
 - <anonyme> : Création d'un logiciel interne pour leurs activités en ligne. (l'entreprise n'existe plus)
+
+<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/border.png">
 
 ## Projets actuels
 
@@ -30,6 +36,8 @@ Je suis actuellement étudiante à [l'école 42](https://42lehavre.fr/) du Havre
 - [Overseer](https://codeberg.org/FRAnarchyDev/Overseer) : bot Discord en C++ permettant de consulter les données de FrenchAnarchyBot depuis Discord
 
 - [Anacrypt](https://someboringnerd.xyz/) : site internet pour consulter les informations d'un joueur via FrenchAnarchyBot
+
+<img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/border.png">
 
 ## Projets passés
 
