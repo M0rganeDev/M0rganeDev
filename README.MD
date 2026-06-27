@@ -17,7 +17,7 @@ Je suis actuellement étudiante à [l'école 42](https://42lehavre.fr/) du Havre
 
 - [FBFT.fr](https://fbft.fr/) : création d'un plugin pour bénéficier les joueurs du serveur.
 
-- <anonyme> : Création d'un logiciel interne pour leurs activités en ligne. (l'entreprise n'existe plus)
+- `<anonyme>` : Création d'un logiciel interne pour leurs activités en ligne. (l'entreprise n'existe plus)
 
 <img src="https://github.com/M0rganeDev/M0rganeDev/raw/mommy/projets_a.png">
 
